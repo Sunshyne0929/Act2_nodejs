@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fce4ec; /* Very light pastel pink background */
+    color: #333; /* Dark gray text for good contrast */
+}
+
+.navbar {
+    background-color: #fff; /* White background for the navbar */
+}
+
+.navbar-brand {
+    color: #ff2391; /* Pastel pink color for the brand */
+}
+
+.navbar-nav .nav-link {
+    color: #ff2391; /* Pastel pink color for the nav links */
+}
+
+.navbar-nav .nav-link:hover {
+    color: #ff5f9a; /* Lighter pastel pink on hover */
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff; /* White background for content */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Light shadow for subtle depth */
+}
+
+h1 {
+    color: #ff2391; /* Provided pastel pink color */
+}
+
+button {
+    background-color: #ff2391; /* Provided pastel pink color */
+    color: white;
+    border: none;
+    border-radius: 4px; /* Rounded corners */
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ff5f9a; /* Lighter pastel pink */
+}
+
+/* Custom Bootstrap Button Class for Pink */
+.btn-pink {
+    background-color: #ff2391; /* Provided pastel pink color */
+    color: white;
+}
+
+.btn-pink:hover {
+    background-color: #ff5f9a; /* Lighter pastel pink */
+}
