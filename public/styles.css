@@ -1,56 +1,56 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #fce4ec; /* Very light pastel pink background */
-    color: #333; /* Dark gray text for good contrast */
+    background-color: #fce4ec; 
+    color: #333; 
 }
 
 .navbar {
-    background-color: #fff; /* White background for the navbar */
+    background-color: #fff; 
 }
 
 .navbar-brand {
-    color: #ff2391; /* Pastel pink color for the brand */
+    color: #ff2391; 
 }
 
 .navbar-nav .nav-link {
-    color: #ff2391; /* Pastel pink color for the nav links */
+    color: #ff2391; 
 }
 
 .navbar-nav .nav-link:hover {
-    color: #ff5f9a; /* Lighter pastel pink on hover */
+    color: #ff5f9a; 
 }
 
 .container {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
-    background-color: #fff; /* White background for content */
-    border-radius: 8px; /* Rounded corners */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Light shadow for subtle depth */
+    background-color: #fff; 
+    border-radius: 8px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
 }
 
 h1 {
-    color: #ff2391; /* Provided pastel pink color */
+    color: #ff2391; 
 }
 
 button {
-    background-color: #ff2391; /* Provided pastel pink color */
+    background-color: #ff2391; 
     color: white;
     border: none;
-    border-radius: 4px; /* Rounded corners */
+    border-radius: 4px; 
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #ff5f9a; /* Lighter pastel pink */
+    background-color: #ff5f9a; 
 }
 
-/* Custom Bootstrap Button Class for Pink */
+
 .btn-pink {
-    background-color: #ff2391; /* Provided pastel pink color */
+    background-color: #ff2391; 
     color: white;
 }
 
 .btn-pink:hover {
-    background-color: #ff5f9a; /* Lighter pastel pink */
+    background-color: #ff5f9a; 
 }
